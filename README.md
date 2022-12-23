@@ -7,3 +7,10 @@ the coding style is used was line coding and error control , and the standard of
 ## Documentation
 
 before starting to run the project 
+
+## Requirements
+
+- Php V8 or greater
+- create your .env file 
+- create your database
+- Xampp or apache server
