@@ -23,3 +23,7 @@ before starting to run the project
     php artisan migrate
     php artisan db:seed
     php artisan storage:link
+
+## Feedback and issues
+
+Any issue and feedback from the app don't hesitate to make an issue
